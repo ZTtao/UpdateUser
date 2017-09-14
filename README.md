@@ -1,0 +1,19 @@
+#Lambda学习项目
+更新User功能
+<h2>输入模板：</h2>
+<pre>
+<code>
+{
+  "baseInfo":{
+	"token":"",
+	"cid":"",
+	"cname":"",
+	"cip":""
+  },
+  "userId":"",
+  "userName":"",
+  "password":"",
+  "userInfo":""
+}
+</code>
+</pre>
